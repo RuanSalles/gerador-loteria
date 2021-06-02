@@ -1,1 +1,1 @@
-# gerador-loteria
+# gerador-numero-loteria
